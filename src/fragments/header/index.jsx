@@ -24,10 +24,10 @@ export function Header(props) {
               <img src={logoblack} className="w-[215px]" alt="" />
             </Link>  comment Logo copyright issue  */}
             <a href="/">
-              <span className="sr-only">Euro Holidays</span>
+              <span className="sr-only">Travels Experts</span>
              
               <h1 className="text-2xl font-bold border-t-4 border-t-primary">
-                Euro Holidays
+                Travels Experts
               </h1>
                
             </a>

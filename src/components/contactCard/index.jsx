@@ -58,19 +58,19 @@ const ContactCard = () => {
             <div className="flex items-center space-x-4">
               <FontAwesomeIcon icon={faEnvelope} className="text-primary" />
               <a
-                href="mailto:Accounts@euroholidays.co.uk"
+                href="mailto:Accounts@travelsexperts.co.uk"
                 className="text-gray-700 hover:underline"
               >
-                Accounts@euroholidays.co.uk
+                Accounts@travelsexperts.co.uk
               </a>
             </div>
             <div className="flex items-center space-x-4">
               <FontAwesomeIcon icon={faEnvelope} className="text-primary" />
               <a
-                href="mailto:Admin@Euroholidays.co.uk"
+                href="mailto:Admin@travelsexperts.co.uk"
                 className="text-gray-700 hover:underline"
               >
-                Admin@Euroholidays.co.uk
+                Admin@travelsexperts.co.uk
               </a>
             </div>
           </div>
@@ -142,19 +142,19 @@ const ContactCard = () => {
             <div className="flex items-center space-x-4">
               <FontAwesomeIcon icon={faEnvelope} className="text-primary" />
               <a
-                href="mailto:Accounts@euroholidays.co.uk"
+                href="mailto:Accounts@travelsexperts.co.uk"
                 className="text-gray-700 hover:underline"
               >
-                Accounts@euroholidays.co.uk
+                Accounts@travelsexperts.co.uk
               </a>
             </div>
             <div className="flex items-center space-x-4">
               <FontAwesomeIcon icon={faEnvelope} className="text-primary" />
               <a
-                href="mailto:Admin@Euroholidays.co.uk"
+                href="mailto:Admin@travelsexperts.co.uk"
                 className="text-gray-700 hover:underline"
               >
-                Admin@Euroholidays.co.uk
+                Admin@travelsexperts.co.uk
               </a>
             </div>
           </div>

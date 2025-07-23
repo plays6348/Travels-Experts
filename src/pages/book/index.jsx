@@ -32,7 +32,7 @@ export default function BookNow() {
     returnDate: "",
     deptDate: "",
     budget: "",
-    siteName: "Euro Holidays",
+    siteName: "Travels Experts",
     inquiryLocation: "User Sent inquiry by selecting the fare.",
     msg: "",
   });
@@ -81,7 +81,7 @@ export default function BookNow() {
             returnDate: "",
             deptDate: "",
             budget: "",
-            siteName: "Euro Holidays",
+            siteName: "Travels Experts",
             inquiryLocation: "User Sent inquiry by selecting the fare.",
             msg: "",
           });

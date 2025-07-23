@@ -191,7 +191,7 @@ export default function Searchbar() {
             dept: selectedDept,
             dest: selectedDest,
             inquiryLocation: enquiryLocation,
-            siteName: "Euro Holidays",
+            siteName: "Travels Experts",
           },
           "-Pfw7rBnJa1xmql5v"
         )

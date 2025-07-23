@@ -29,12 +29,12 @@ export function Holidays() {
        <Helmet>
       
 
-        <title>Luxury Holidays | Premium Holidays Deals | Euro Holidays</title>
-        <meta name="description" content="Discover luxury holidays, budget-friendly getaways, and the best deals for 2024/2025. Tailor your dream escape to fit your budget perfectly at Euro Holidays !" />
+        <title>Luxury Holidays | Premium Holidays Deals | Travels Experts</title>
+        <meta name="description" content="Discover luxury holidays, budget-friendly getaways, and the best deals for 2024/2025. Tailor your dream escape to fit your budget perfectly at Travels Experts !" />
         <meta name="keywords" content="Luxury Holidays, Best Holiday Deals, Affordable Luxury Vacations, Luxury Vacation Packages, Cheap Vacation Deals, 
         Discount Luxury Holidays, Exclusive Holiday Offers, Luxury Travel Deals, Best Luxury Holidays, Best Vacation Deals 2025" />
-        <meta property="og:title" content="Luxury Holidays | Best Holidays Deals at Euro Holidays" />
-        <meta property="og:description" content=" Euro Holidasy - Discover luxury holidays, budget-friendly getaways, and the best deals for 2024/2025. Tailor your dream escape to fit your budget perfectly at Euro Holidays !" />
+        <meta property="og:title" content="Luxury Holidays | Best Holidays Deals at Travels Experts" />
+        <meta property="og:description" content=" Euro Holidasy - Discover luxury holidays, budget-friendly getaways, and the best deals for 2024/2025. Tailor your dream escape to fit your budget perfectly at Travels Experts !" />
         
         </Helmet>
 

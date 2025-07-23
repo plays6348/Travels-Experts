@@ -15,15 +15,15 @@ export default function Home() {
 
     <Layout>
       <Helmet>
-        <title> Euro Holidays - Best Flight, Holiday Packages & Hotel Booking</title>
-        <meta name="description" content="Euro Holidays - The best choice for flight bookings, hotel reservations, and holiday packages.
+        <title> Travels Experts - Best Flight, Holiday Packages & Hotel Booking</title>
+        <meta name="description" content="Travels Experts - The best choice for flight bookings, hotel reservations, and holiday packages.
         Explore top travel deals and book affordable getaways for unforgettable experiences." />
-        <meta name="keywords" content="Euro Holidays, Euro Holidays Flight Deals, Luxury Travel, Business Class Flight, Luxury Travel Agency, Economy Flight, Hotel Bookings, Euroholidays, Uk Flights" />
-        <meta property="og:title" content="Euro Holidays | Best Flight, Holiday Packages & Hotel Booking" />
-        <meta property="og:description" content="Find the best holiday packages and flight deals with Euro Holidays." />
-        <meta property="og:description" content="Euro Holidays - The best choice for flight bookings, hotel reservations, and holiday packages. 
-        Explore top travel deals and book affordable getaways for unforgettable experiences. Plan your perfect vacation with Euro Holidays now!" />
-        <link rel="canonical" href="https://www.euroholidays.co.uk/" />
+        <meta name="keywords" content="Travels Experts, Travels Experts Flight Deals, Luxury Travel, Business Class Flight, Luxury Travel Agency, Economy Flight, Hotel Bookings, Travels Experts, Uk Flights" />
+        <meta property="og:title" content="Travels Experts | Best Flight, Holiday Packages & Hotel Booking" />
+        <meta property="og:description" content="Find the best holiday packages and flight deals with Travels Experts." />
+        <meta property="og:description" content="Travels Experts - The best choice for flight bookings, hotel reservations, and holiday packages. 
+        Explore top travel deals and book affordable getaways for unforgettable experiences. Plan your perfect vacation with Travels Experts now!" />
+        <link rel="canonical" href="https://www.travelsexperts.co.uk/" />
 
         
         

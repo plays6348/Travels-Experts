@@ -86,16 +86,16 @@ export function Footer() {
           <div className="space-y-8">
             {/* <img className="h-12" src="/logo.png" alt="Company name" /> */}
             <a href="/" className="w-fit">
-              <span className="sr-only">Euro Holidays</span>
+              <span className="sr-only">Travels Experts</span>
               <h1 className="text-2xl font-bold w-fit border-t-4 border-t-primary">
-                Euro Holidays
+                Travels Experts
               </h1>
             </a>
             {/* <p className="text-sm leading-6 ml-2 text-gray-600">
-              Discover unforgettable journeys with Euro Holidays.
+              Discover unforgettable journeys with Travels Experts.
             </p> */}
             <p className="text-sm leading-6 ml-2 text-gray-600">
-              At Euro Holidays, we provide the best flight deals, holiday packages, and hotel bookings to make your travel dreams come true. Discover unbeatable prices and exclusive offers tailored just for you. Book now with euroholidays.co.uk for a seamless travel experience!
+              At Travels Experts, we provide the best flight deals, holiday packages, and hotel bookings to make your travel dreams come true. Discover unbeatable prices and exclusive offers tailored just for you. Book now with travelsexperts.co.uk for a seamless travel experience!
             </p>
             <dl className="mt-10 space-y-4 text-base leading-7 text-gray-600">
               <div className="flex gap-x-4 hover:text-primary cursor-pointer">

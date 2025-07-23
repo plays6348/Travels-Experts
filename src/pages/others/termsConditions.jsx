@@ -216,7 +216,7 @@ export function TermsConditions() {
         <h2 class="text-xl font-semibold mb-2">Contact Us</h2>
         <p class="mb-4">
           If you have any questions about this Privacy Policy, You can contact
-          us: By visiting this page on our website:euroholidays.co.uk
+          us: By visiting this page on our website:travelsexperts.co.uk
         </p>
 
         <p class="mb-4"> By phone number: 020 8145 4449</p>

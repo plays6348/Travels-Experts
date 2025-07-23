@@ -51,12 +51,12 @@ export function Destinations() {
     <>
         <Helmet>
 
-         <title>Best Destinations In Europe | Euro Holidays Dream Destinations </title>
-        <meta name="description" content="Discover your Dream  destinations with Euro Holidays ! Enjoy exclusive flight and holiday packages, tailored to create unforgettable experiences just for you" />
-        <meta name="keywords" content="Travel Destination, Destination With Euro Holidays, European adventure, Best Destination in Europe, Vication Destination, Luxry Destination, Wedding Destination " />
-        <meta property="og:title" content="Euro Holidays | Best Destinations In Europe | Euro Holidays Dream Destinations " />
-        <meta property="og:description" content="Find the best Dream Destinations and Flights with Euro Holidays." />
-        <meta property="og:description" content="Discover your dream destinations with our guide to the best destinations in Europe. Explore top travel spots, from iconic cities to hidden gems. Euro holidays!" />
+         <title>Best Destinations In Europe | Travels Experts Dream Destinations </title>
+        <meta name="description" content="Discover your Dream  destinations with Travels Experts ! Enjoy exclusive flight and holiday packages, tailored to create unforgettable experiences just for you" />
+        <meta name="keywords" content="Travel Destination, Destination With Travels Experts, European adventure, Best Destination in Europe, Vication Destination, Luxry Destination, Wedding Destination " />
+        <meta property="og:title" content="Travels Experts | Best Destinations In Europe | Travels Experts Dream Destinations " />
+        <meta property="og:description" content="Find the best Dream Destinations and Flights with Travels Experts." />
+        <meta property="og:description" content="Discover your dream destinations with our guide to the best destinations in Europe. Explore top travel spots, from iconic cities to hidden gems. Travels Experts!" />
        
 
         </Helmet>

@@ -28,12 +28,12 @@ export function Airlines() {
 
       
 
-        <title>Affordable Airline Packages | Euro Holidays' Best Deals on Cheap Flights</title>
+        <title>Affordable Airline Packages | Travels Experts' Best Deals on Cheap Flights</title>
         <meta name="description" content="Book your dream vacation at unbeatable prices with our airline package deals! Enjoy bundled flights, hotels, and more for a seamless travel experience. #travelagency #AirlinePackagesDeal" />
         <meta name="keywords" content="Airline Packages Deals, Cheap Airline Packages Deals, Best Airlines Packages Deals, Top Airline Packages Deals, 
-        International Airlines Packages Deals, Euro Holidays " />
-        <meta property="og:title" content="Euro Holidays  Airline Packages | Euro Holidays' Best Deals on Cheap Flights" />
-        <meta property="og:description" content=" Book your dream vacation at unbeatable prices with our airline package deals! Euro Holidays Enjoy bundled flights, hotels, and more for a seamless travel experience. #travelagency #AirlinePackagesDeal" />
+        International Airlines Packages Deals, Travels Experts " />
+        <meta property="og:title" content="Travels Experts  Airline Packages | Travels Experts' Best Deals on Cheap Flights" />
+        <meta property="og:description" content=" Book your dream vacation at unbeatable prices with our airline package deals! Travels Experts Enjoy bundled flights, hotels, and more for a seamless travel experience. #travelagency #AirlinePackagesDeal" />
         
         
 

@@ -11,12 +11,12 @@ export default function Layout({ children, title }) {
     <>
       {/* <Helmet> */}
         {/* <title>{title} - Best Flight, Holiday Packages & Hotel Booking</title> */}
-        {/* <meta name="description" content="Find the best holiday packages and flight deals with Euro Holidays." /> */}
-        {/* <meta name="keywords" content="euro holidays, holiday packages, flight deals, hotel bookings, Visa Services, Euroholidays, Eu Holidays, Uk Flights" /> */}
-        {/* <meta property="og:title" content="Euro Holidays | Best Flight, Holiday Packages & Hotel Booking" /> */}
-        {/* <meta property="og:description" content="Find the best holiday packages and flight deals with Euro Holidays." /> */}
-        {/* <meta property="og:description" content="Euro Holidays - The best choice for flight bookings, hotel reservations, and holiday packages.  */}
-        {/* // Explore top travel deals and book affordable getaways for unforgettable experiences. Plan your perfect vacation with Euro Holidays now!" /> */}
+        {/* <meta name="description" content="Find the best holiday packages and flight deals with Travels Experts." /> */}
+        {/* <meta name="keywords" content="Travels Experts, holiday packages, flight deals, hotel bookings, Visa Services, Travels Experts, Eu Holidays, Uk Flights" /> */}
+        {/* <meta property="og:title" content="Travels Experts | Best Flight, Holiday Packages & Hotel Booking" /> */}
+        {/* <meta property="og:description" content="Find the best holiday packages and flight deals with Travels Experts." /> */}
+        {/* <meta property="og:description" content="Travels Experts - The best choice for flight bookings, hotel reservations, and holiday packages.  */}
+        {/* // Explore top travel deals and book affordable getaways for unforgettable experiences. Plan your perfect vacation with Travels Experts now!" /> */}
        
 
       {/* </Helmet> */}
@@ -53,7 +53,7 @@ export default function Layout({ children, title }) {
 }
 
 Layout.defaultProps = {
-  title: "Euro Holidays",
+  title: "Travels Experts",
   description: "",
   keywords: "noindex, nofollow",
 };

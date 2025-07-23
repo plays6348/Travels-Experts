@@ -105,13 +105,13 @@ export function Flights() {
 
       <Helmet>
 
-          <title>Flights | Euro Holidays| Business Class Flights | International Business Class Flights</title>
+          <title>Flights | Travels Experts| Business Class Flights | International Business Class Flights</title>
         <meta name="description" content="Elevate your travel experience with our business class flights on international routes. Enjoy unparalleled comfort and luxury in the skies." />
         <meta name="keywords" content="Business Class Flights Deals, Cheap Business Class Flights, International Business Class Flights, 
         Discounted Business Class Tickets, Best Business Class Flights, Affordable Flights, Economy Class Flight Deals, Cheap Economy Class Flights, 
         Discount  Flights, International Economy Class Flights " />
-        <meta property="og:title" content="Flights - Euro Holidays | Business Class Flights | International Business Class Flights" />
-        <meta property="og:description" content="Euro Holidays - Elevate your travel experience with our business class flights on international routes. 
+        <meta property="og:title" content="Flights - Travels Experts | Business Class Flights | International Business Class Flights" />
+        <meta property="og:description" content="Travels Experts - Elevate your travel experience with our business class flights on international routes. 
         Enjoy unparalleled comfort and luxury in the skies. Don’t wait—book your international flight now and discover a new level of travel excellence!" />
        
 

@@ -38,7 +38,7 @@ export function Incentives() {
                 </span>
               </h2>
               <p className="mt-4 text-base text-slate-100">
-                At Euro Holidays, we specialize in offering budget-friendly airline tickets without compromising on comfort and convenience. 
+                At Travels Experts, we specialize in offering budget-friendly airline tickets without compromising on comfort and convenience. 
                 Whether you’re planning a vacation or a business trip, our affordable flight options will get you where you need to go, all while saving you money. 
                 Explore the world with us, knowing you're getting the best rates available.
 

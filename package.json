@@ -1,7 +1,7 @@
 {
-  "name": "euroholidays",
+  "name": "travelsexperts",
   "version": "0.1.0",
-  "homepage": "http://euroholidays.co.uk",
+  "homepage": "http://travelsexperts.co.uk",
   "private": true,
   "dependencies": {
     "@emailjs/browser": "^3.7.0",

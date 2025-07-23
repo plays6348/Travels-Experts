@@ -42,7 +42,7 @@ export function InquiryForm() {
         .send(
           "service_wppu4t4",
           "template_bsctuhp",
-          { ...form, siteName: "Euro Holidays" },
+          { ...form, siteName: "Travels Experts" },
           "-Pfw7rBnJa1xmql5v"
         )
         .then((res) => {
@@ -58,7 +58,7 @@ export function InquiryForm() {
             returnDate: "",
             deptDate: "",
             budget: "",
-            siteName: "Euro Holidays",
+            siteName: "Travels Experts",
             inquiryLocation: "User Sent inquiry by selecting the fare.",
             msg: "",
           });
@@ -170,8 +170,8 @@ export function InquiryForm() {
                   <AiFillRedEnvelope className="h-7 w-6" aria-hidden="true" />
                 </dt>
                 <dd>
-                  <a href="mailto:contact@euroholidays.com">
-                    contact@euroholidays.com
+                  <a href="mailto:contact@travelsexperts.com">
+                    contact@travelsexperts.com
                   </a>
                 </dd>
               </div>
