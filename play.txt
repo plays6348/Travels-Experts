@@ -1,0 +1,28 @@
+  const sendData = async () => {
+    const allDocuments = [];
+    const dbRef = collection(db, "destinations");
+    if (countries) {
+      for (const key in countries) {
+        if (countries.hasOwnProperty(key)) {
+          // Iterate over the inner array of documents for each key
+          for (const document of countries[key]) {
+            allDocuments.push(document);
+            await addDoc(dbRef, {
+              ...document,
+            })
+              .then((res) => {
+                console.log(res);
+              })
+              .catch((err) => {
+                console.log(err);
+              });
+          }
+        }
+      }
+      console.log(allDocuments);
+    }
+    // Iterate over the outer object keys (uae, usa)
+  };
+
+
+  
